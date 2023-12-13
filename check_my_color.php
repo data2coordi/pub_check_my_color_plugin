@@ -33,7 +33,8 @@ Class  Simple_color_class{
 			
 			$ColorChecker->SetCheckFile($check_sheet_csv);
 			$ret = $ColorChecker->DisplayRet( $_POST['result'], $_GET['id']);
-
+			var_dump($ret);
+			var_dump('debug code 1');
 			$query->set( 'cat', get_cat_ID( $ret ));
 			return;
 		}
@@ -51,6 +52,10 @@ Class  Simple_color_class{
 			$ColorChecker = new ColorCheckerClass();
 			$content = $ColorChecker->Replace($content, $_POST['result'], $_POST['page_no'], $_GET['id']);
 		}
+
+
+		var_dump($content  );
+		var_dump('debug code 2');
 		return $content;  
 	}
 }
