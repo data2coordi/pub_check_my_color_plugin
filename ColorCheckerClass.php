@@ -13,7 +13,6 @@ class ColorCheckerClass {
 
     public function SetCheckFile($filePath) {
 	//$CheckTableSrc = new SplFileObject($filePath);
-	$test2 = substr('test', 1, 1);
 	ColorCheckerClass::$CheckTableSrc = new \SplFileObject($filePath);
     }
 
