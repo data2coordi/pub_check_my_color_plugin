@@ -8,7 +8,7 @@
 問診形式のパーソナルカラー診断をオンラインで行うWEBアプリを作ることとなった。
 妻が企画、デザイン、イラストを担当し、私がプログラム作成を担当して、本アプリを作成した。
 
-[パーソナルカラー問診診断アプリ](https://color.toshidayurika.com/diagnosis/)
+[パーソナルカラー問診診断アプリ](https://color.toshidayurika.com/?page_id=59)
 
 せっかくなので、このアプリをポートフォリオとして公開することにした。
 ※ 直感的に操作できるのでまずは上記リンク先から触ってみてください。
@@ -31,7 +31,7 @@ Wordpressのプラグインを作成できることの証明を目的として�
 下記リンク先を参照
 
 
-[パーソナルカラー問診診断アプリ](https://color.toshidayurika.com/diagnosis/)
+[パーソナルカラー問診診断アプリ](https://color.toshidayurika.com/?page_id=59)
 
 
 
